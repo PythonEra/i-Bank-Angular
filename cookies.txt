@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.envytheme.com	TRUE	/	FALSE	1999999999	__cfduid	d52f47e0e97a9ed155a4ffc00c2803b5d1614752803
+templates.envytheme.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
